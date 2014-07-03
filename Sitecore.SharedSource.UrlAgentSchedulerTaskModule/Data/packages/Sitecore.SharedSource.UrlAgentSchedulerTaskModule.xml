@@ -1,0 +1,70 @@
+<project>
+  <Metadata>
+    <metadata>
+      <PackageName>Sitecore.SharedSource.UrlAgentSchedulerTaskModule</PackageName>
+      <Author>Mortaza Kamal Nourestani</Author>
+      <Version>1</Version>
+      <Revision />
+      <License />
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher>Mortaza Kamal Nourestani</Publisher>
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/content/Settings/UrlAgentSettings/{E8C20441-3C70-47AE-A30B-F3EB575F62CC}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Settings/UrlAgentSettings/Url Agent Setting 1/{1ECB86F7-99A4-47A5-8855-9BBAC42D3FD0}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Settings/UrlAgentSettings/Urls/{51A034CC-B796-4A3D-886D-01D21DA90D24}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Settings/UrlAgentSettings/Urls/home/{BCAE5867-670F-458A-B29C-6B85238C1A75}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Settings/UrlAgentSettings/Urls/keepalive/{67707DEF-1C22-4119-948F-F48E8E9680BE}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Tasks/Commands/UrlAgent Scheduler Task Command/{CAF501E1-9B51-4C4D-ACDD-E12AC061F328}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Tasks/Schedules/UrlAgent Scheduler Task/{4ECFCF60-0C19-4E13-92A6-A404B3AC665E}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/UrlAgent/{0CF6A4DA-D4A4-4445-84E3-27CDB309B1CD}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/UrlAgent/Url Agent Settings/{F3F3FE94-8D22-4324-8FC8-EF5F8F5A4712}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/UrlAgent/Url Agent Settings/Settings/{5DE2236F-7B4E-4B75-810B-87C82D7D2658}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/UrlAgent/Url Agent Settings/Settings/Urls/{0759140F-BB7F-4E4F-873B-FF92027E328A}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/UrlAgent/Url/{5BFBEC36-A78A-4EE3-A7EF-861A18ECBB02}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/UrlAgent/Url/Data/{05A9A5B0-C3AD-4421-8E0B-C166F84B70CC}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/UrlAgent/Url/Data/Url/{0173564E-5BCB-46B8-976A-632AA7AEBA1A}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Items</Name>
+    </xitems>
+    <xfiles>
+      <Entries>
+        <x-item>/bin/Sitecore.SharedSource.UrlAgentSchedulerTaskModule.dll</x-item>
+        <x-item>/bin/Sitecore.SharedSource.UrlAgentSchedulerTaskModule.pdb</x-item>
+      </Entries>
+      <Converter>
+        <FileToEntryConverter>
+          <Root>/</Root>
+          <Transforms />
+        </FileToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Files</Name>
+    </xfiles>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>
